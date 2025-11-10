@@ -39,3 +39,7 @@ Run the App
 1. Update the connection in app.py, by replacing your_username and your_password with your PostgreSQL credentials:
 ```python
 conn = psycopg2.connect("dbname=student_db user=your_username password=your_password")
+
+Video Demonstration
+-------------------
+URL = https://youtu.be/_SXVCaq2dgM
